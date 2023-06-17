@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.Header {
+  background-color: aquamarine;
+  font-family: Kanit, Prompt, Sarabun, Tahoma, sans-serif;
+  font-size: larger;
+  padding: 1em;
+  border-radius: 15px;
+  border: 2px solid #61dafb;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.Footer {
+  background-color: aquamarine;
+  font-family: Kanit, Prompt, Sarabun, Tahoma, sans-serif;
+  font-size: small;
+  padding: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.Content {
+  font-family: Kanit, Prompt, Sarabun, Tahoma, sans-serif;
+  padding: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.button-plus {
+  font-family: Kanit, Prompt, Sarabun, Tahoma, sans-serif;
+  font-size: medium;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  background-color: rgb(3, 206, 10);
+  border-radius: 5px;
+}
+
+.button-minus {
+  font-family: Kanit, Prompt, Sarabun, Tahoma, sans-serif;
+  font-size: medium;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  background-color: rgb(205, 91, 4);
+  border-radius: 5px;
+}
